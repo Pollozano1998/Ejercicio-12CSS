@@ -1,0 +1,12 @@
+#p-1 {
+    width: 300px;
+    height: 150px;
+    background-color: aquamarine;
+    overflow: auto;
+}
+#p-2{
+    width: 300px;
+    height: 150px;
+    background-color: aquamarine;
+    overflow: hidden;
+}
